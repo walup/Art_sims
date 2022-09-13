@@ -1,3 +1,3 @@
-# Noises_Art_Simulations
+# Art_sims
 
-I'd like to play with some Procedural Noise algorithms this semester
+Some algorithms to generate visually interesting images
